@@ -18,28 +18,28 @@ Total Vine Reviews:
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Total%20Vine%20Reviews.PNG">
 
 
-Total Non-Vine Reviews
+Total Non-Vine Reviews:
 
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Total%20Non-Vine%20Reviews.PNG">
 
 •	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-Total Vine 5 Star Reviews
+Total Vine 5 Star Reviews:
 
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Total%20Vine%205%20Stars%20Reviews.PNG">
 
-Total Non-Vine 5 Star Reviews
+Total Non-Vine 5 Star Reviews:
 
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Total%20Non-Vine%205%20Stars%20Reviews.PNG">
 
 
 •	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-Percentage Vine 5 Star Reviews
+Percentage Vine 5 Star Reviews:
 
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Vine%205%20Star%20Percentage.PNG">
 
-Percentage Non-Vine 5 Star Reviews
+Percentage Non-Vine 5 Star Reviews:
 
 <img src ="https://github.com/Jafranco96/Amazon_Vine_Analysis/blob/main/Resources/Non-Vine%205%20Star%20Percentage.PNG">
 
